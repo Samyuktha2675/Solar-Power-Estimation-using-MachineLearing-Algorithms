@@ -15,6 +15,12 @@ A comprehensive project that explores the estimation of solar power using advanc
 - [Contributors](#contributors)
 - [License](#license)
 
+#**RESULT**
+![download (1)](https://github.com/user-attachments/assets/45f95b09-eb80-41ff-9edb-ca978bde1c58)
+![download (2)](https://github.com/user-attachments/assets/bcca03be-6a46-4f77-9324-e385ef181966)
+
+
+
 #**📖Project Overview**
 
 This project aims to build a hybrid machine learning model to predict solar power generation more accurately. It focuses on leveraging the strengths of ensemble learning (RF and XGBoost) and deep learning (LSTM) to capture complex patterns in environmental and historical solar data. The methodology includes detailed data preprocessing, feature engineering, and hyperparameter tuning through optimization techniques.
