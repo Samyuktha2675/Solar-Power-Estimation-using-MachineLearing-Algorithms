@@ -1,13 +1,8 @@
-Here's the full `README.md` content in Markdown code format, ready to copy-paste directly into your GitHub repository:
-
-````markdown
-##🌞 Solar Power Estimation Using Machine Learning
+#**🌞 Solar Power Estimation Using Machine Learning**
 
 A comprehensive project that explores the estimation of solar power using advanced hybrid machine learning models. This project combines Random Forest (RF), XGBoost, and Long Short-Term Memory (LSTM) networks, along with advanced optimization strategies like Bayesian Optimization and Particle Swarm Optimization, to effectively model both spatial and temporal dependencies in solar power data.
 
----
-
-##📌Table of Contents
+**📌Table of Contents**
 
 - [Project Overview](#project-overview)
 - [Features](#features)
@@ -20,15 +15,13 @@ A comprehensive project that explores the estimation of solar power using advanc
 - [Contributors](#contributors)
 - [License](#license)
 
----
-
-##📖Project Overview
+#**📖Project Overview**
 
 This project aims to build a hybrid machine learning model to predict solar power generation more accurately. It focuses on leveraging the strengths of ensemble learning (RF and XGBoost) and deep learning (LSTM) to capture complex patterns in environmental and historical solar data. The methodology includes detailed data preprocessing, feature engineering, and hyperparameter tuning through optimization techniques.
 
 ---
 
-##🚀Features
+#**🚀Features**
 
 - 📊 Real-time solar power prediction using historical and weather data.
 - 🤖 Hybrid modeling: Combines Random Forest, XGBoost, and LSTM.
@@ -39,7 +32,7 @@ This project aims to build a hybrid machine learning model to predict solar powe
 
 ---
 
-##🧱Architecture
+#**🧱Architecture**
 
 ```text
                 +--------------------+
@@ -66,7 +59,7 @@ This project aims to build a hybrid machine learning model to predict solar powe
 
 ---
 
-##📂Dataset
+##**📂Dataset**
 
 * **Source**: Public solar energy and meteorological datasets (e.g., NREL, Kaggle, local station data).
 * **Attributes**:
