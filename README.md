@@ -117,10 +117,10 @@ python predict.py --input your_input_file.csv
 
 ## 📊 Results
 
-* **Best RMSE**: *X.XX*
-* **Best MAE**: *X.XX*
-* **R² Score**: *0.9+*
-
+**MAE**: 6.180190366017883
+**MSE**: 82.76455966624914
+**RMSE**: 9.0975029357648
+**R^2 Score**: 0.9993947806323973
 > The hybrid model significantly outperformed individual models, especially in scenarios with high temporal variability.
 
 ---
